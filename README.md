@@ -3,8 +3,7 @@ A basic demo of support vector machine
 
 ##Interpetation of the corresponding video 
 
-Main Speaker:王亚蕊<br/>
-support vector machine : <http://www.youku.com/sunzuolei>  "支持向量机"
+support vector machine : <http://i.youku.com/sunzuolei>  "支持向量机"
 
 ##include 
 \main.m     <br/>
