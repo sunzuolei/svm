@@ -2,6 +2,8 @@
 A basic demo of support vector machine
 
 ##Interpetation of the corresponding video 
+
+Main Speaker:王亚蕊<br/>
 support vector machine : <http://www.youku.com/sunzuolei>  "支持向量机"
 
 ##include 
@@ -11,6 +13,7 @@ support vector machine : <http://www.youku.com/sunzuolei>  "支持向量机"
 \kernel.m    <br/>
 
 ##Usage
+
 
 You can run directly "main.m" to test svm.
 
