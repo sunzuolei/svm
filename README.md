@@ -4,9 +4,7 @@ A basic demo of support vector machine
 ##Interpetation of the corresponding video 
 
 support vector machine : <http://i.youku.com/sunzuolei>  "支持向量机"<br/>
-support vector machine支持向量机（1) <br/>
-[![IMAGE ALT TEXT](www.youku.com)](<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMTg3OTEyMTY5Mg==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed> "CameraMaster")
- 
+support vector machine支持向量机（1):<iframe height=498 width=510 src="http://player.youku.com/player.php/sid/XMTg3OTEyMTY5Mg==/v.swf" frameborder=0 allowfullscreen></iframe>
 
 ##include 
 * \main.m     <br/>
