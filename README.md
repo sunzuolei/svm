@@ -5,7 +5,7 @@ A basic demo of support vector machine
 
 support vector machine : <http://i.youku.com/sunzuolei>  "支持向量机"<br/>
 support vector machine支持向量机（1）  <br/>
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMTg3OTEyMTY5Mg==' frameborder=0 'allowfullscreen'></iframe>
+<embed src='http://player.youku.com/player.php/sid/XMTg3OTEyMTY5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 ##include 
 \main.m     <br/>
