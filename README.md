@@ -7,7 +7,7 @@ support vector machine : <http://i.youku.com/sunzuolei>  "支持向量机"<br/>
 
 [support vector machine支持向量机(1)] (http://v.youku.com/v_show/id_XMTg3OTEyMTY5Mg==.html?spm=a2hzp.8253869.0.0&from=y1.7-2#paction)  <br/>
 
-[support vector machine支持向量机(2)] (http://v.youku.com/v_show/id_XMTg3OTEyMTY5Mg==.html?spm=a2hzp.8253869.0.0&from=y1.7-2#paction)  <br/>
+[support vector machine支持向量机(2)] (http://v.youku.com/v_show/id_XMTg3OTEyOTU5Ng==.html?&f=49105514&from=y1.2-3.4.3&spm=a2h0j.8191423.item_XMTg3OTEyOTU5Ng==.A)  <br/>
 
 [support vector machine支持向量机(3)] (http://v.youku.com/v_show/id_XMTg3OTE0NjI2MA==.html?spm=a2h0j.8191423.module_basic_relation.5~5!2~5~5!4~5!2~1~3~A&from=y1.2-1-87.3.2-2.1-1-1-1-0)  <br/>
 
