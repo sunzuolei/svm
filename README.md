@@ -4,7 +4,7 @@ A basic demo of support vector machine
 ##Interpetation of the corresponding video 
 
 support vector machine : <http://i.youku.com/sunzuolei>  "支持向量机"<br/>
-Idina Menze和Caleb Hyles激情对唱Let It Go：<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0" frameborder=0 allowfullscreen></iframe>
+[support vector machine支持向量机(1)] (<iframe height=498 width=510 src='http://player.youku.com/embed/XMTg3OTEyMTY5Mg==' frameborder=0 'allowfullscreen'></iframe>)
 
 
 ##include 
