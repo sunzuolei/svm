@@ -17,8 +17,7 @@ You can run directly "main.m" to test svm.
 
 ##Contributor
 
- 王亚蕊: <wyr@mpig.com.cn>  <br/>
-         <945150145@qq.com>
+ 王亚蕊: <wyr@mpig.com.cn>  or  <945150145@qq.com>
 
 
 
